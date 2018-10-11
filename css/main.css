@@ -34,7 +34,7 @@ html {
 
 .cards strong {
   display: block;
-  margin-bottom:  1rem;
+  margin-bottom: 1rem;
 
   font-size: 1.125rem;
 }
@@ -53,6 +53,7 @@ html {
   display: inline-block;
   margin: 0;
   min-width: 9em;
+  font-style: normal;
 }
 
 .cards div {
